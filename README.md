@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Copyright
 
 Git.training
+
+### Contribute
+
+Do something
