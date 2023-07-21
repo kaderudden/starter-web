@@ -12,4 +12,4 @@ Git.training
 
 ### Contribute
 
-Do something
+Do something else
